@@ -11,6 +11,8 @@ So that I make myself clear, here is a list of the already present names in the 
 - FLoRFIMPSaDR = "Four Lectures on RFIM, Parisi-Sourlas and Dimensional Reduction" ~ Rychov Slava
 - MC = "Modern Cosmology, second edition" ~ Dodelson S., Schmidt F.
 
+# FAQ
+
 # Aside
 
 I like typewriter fonts, so the encoding for the files is T1 with mlmodern as font. Unfortunately, this cause some issue with github rendering. It should be fine if you open them in a separate window within your browser.
